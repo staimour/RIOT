@@ -1,6 +1,6 @@
 # RIOT
 
-RIOT, the Road Information Object Transform, is a package that consists of road information as a function of USA road, a methodology to determine the road corresponding to a given longitude/latitude position, and a mapping algorithm that maps location data to driver data.
+RIOT, the Road Information Object Transform, is a package that consists of road information as a function of USA road, a methodology to determine the road corresponding to a given longitude/latitude position, a mapping algorithm that maps location data to driver data, and a risk model to quantify a given road's auto-accident risk (independent of any given driver).
 
 The road network and basic information objects, such as road type and road speed limit, are obtained from the open source road database, OpenSteetMaps via OSMnx. OSMnx is a python package for downloading boundary shapes and road networks from OpenStreetMaps.
 
