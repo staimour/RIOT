@@ -4,12 +4,10 @@ RIOT, the Road Information Object Transform, is a package that consists of road 
 
 The road network and basic information objects, such as road type and road speed limit, are obtained from the open source road database, OpenSteetMaps via OSMnx. OSMnx is a python package for downloading boundary shapes and road networks from OpenStreetMaps.
 
-Documentation for OSMnx, can be found here:<br/>
-  
-  Academic paper:<br/>
-  /docs/boeing-osmnx-street-networks.pdf<br/>
-  Docs: https://osmnx.readthedocs.io/en/stable/osmnx.html<br/>
-  Github: https://github.com/gboeing/osmnx<br/>
+Documentation for OSMnx, can be found here:<br/> 
+  Academic paper: /docs/boeing-osmnx-street-networks.pdf<br/>
+  Docs:           https://osmnx.readthedocs.io/en/stable/osmnx.html<br/>
+  Github:         https://github.com/gboeing/osmnx<br/>
   
 And OpenStreetMap Highway Key vaules are here:<br/>
 https://wiki.openstreetmap.org/wiki/Key:highway<br/>
