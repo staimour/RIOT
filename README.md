@@ -6,7 +6,8 @@ The road network and basic information objects, such as road type and road speed
 
 Documentation for OSMnx, can be found here:<br/>
   
-  Academic paper: file:///Users/samtaimourzadeh/Downloads/boeing-osmnx-street-networks.pdf<br/>
+  Academic paper:<br/>
+  /docs/boeing-osmnx-street-networks.pdf<br/>
   Docs: https://osmnx.readthedocs.io/en/stable/osmnx.html<br/>
   Github: https://github.com/gboeing/osmnx<br/>
   
